@@ -2,5 +2,7 @@
   "name": "Sổ Tay Ứng Xử Di Tích",
   "description": "Ứng dụng cẩm nang Mobile-first hướng dẫn quy tắc ứng xử, trang phục và xử lý tình huống tại di tích, nơi thờ tự Việt Nam cho học sinh, sinh viên và cán bộ văn hóa cơ sở.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
